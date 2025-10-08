@@ -1,6 +1,3 @@
-README.md
-`markdown
-
 Arqadian Group Ltd – Digital HQ
 
 Arqadian is the umbrella brand anchoring multi-sector excellence across engineering, tech, logistics, and consultancy.
